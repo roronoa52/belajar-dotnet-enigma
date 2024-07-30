@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program\\c#\\enigma\\belajar\\LearnAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D5D6B7-2FD2-4AE3-9895-DADDFAA57C81}|LearnAPI\\LearnAPI.csproj|d:\\program\\c#\\enigma\\belajar\\learnapi\\learnapi\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D5D6B7-2FD2-4AE3-9895-DADDFAA57C81}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D5D6B7-2FD2-4AE3-9895-DADDFAA57C81}|LearnAPI\\LearnAPI.csproj|d:\\program\\c#\\enigma\\belajar\\learnapi\\learnapi\\learnapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{69D5D6B7-2FD2-4AE3-9895-DADDFAA57C81}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\learnapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D5D6B7-2FD2-4AE3-9895-DADDFAA57C81}|LearnAPI\\LearnAPI.csproj|d:\\program\\c#\\enigma\\belajar\\learnapi\\learnapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69D5D6B7-2FD2-4AE3-9895-DADDFAA57C81}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D5D6B7-2FD2-4AE3-9895-DADDFAA57C81}|LearnAPI\\LearnAPI.csproj|d:\\program\\c#\\enigma\\belajar\\learnapi\\learnapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69D5D6B7-2FD2-4AE3-9895-DADDFAA57C81}|LearnAPI\\LearnAPI.csproj|solutionrelative:learnapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Program\\c#\\enigma\\belajar\\LearnAPI\\LearnAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LearnAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Program\\c#\\enigma\\belajar\\LearnAPI\\LearnAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LearnAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T21:33:01.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearnAPI.http",
+              "DocumentMoniker": "D:\\Program\\c#\\enigma\\belajar\\LearnAPI\\LearnAPI\\LearnAPI.http",
+              "RelativeDocumentMoniker": "LearnAPI\\LearnAPI.http",
+              "ToolTip": "D:\\Program\\c#\\enigma\\belajar\\LearnAPI\\LearnAPI\\LearnAPI.http",
+              "RelativeToolTip": "LearnAPI\\LearnAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-29T21:32:57.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Program\\c#\\enigma\\belajar\\LearnAPI\\LearnAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LearnAPI\\appsettings.json",
+              "ToolTip": "D:\\Program\\c#\\enigma\\belajar\\LearnAPI\\LearnAPI\\appsettings.json",
+              "RelativeToolTip": "LearnAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T21:32:53.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "D:\\Program\\c#\\enigma\\belajar\\LearnAPI\\LearnAPI\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "LearnAPI\\Controllers\\HelloController.cs",
+              "ToolTip": "D:\\Program\\c#\\enigma\\belajar\\LearnAPI\\LearnAPI\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "LearnAPI\\Controllers\\HelloController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:30:59.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

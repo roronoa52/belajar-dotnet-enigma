@@ -1,0 +1,14 @@
+D:\Program\c#\enigma\belajar\Linq\Linq\bin\Debug\net8.0\Linq.exe
+D:\Program\c#\enigma\belajar\Linq\Linq\bin\Debug\net8.0\Linq.deps.json
+D:\Program\c#\enigma\belajar\Linq\Linq\bin\Debug\net8.0\Linq.runtimeconfig.json
+D:\Program\c#\enigma\belajar\Linq\Linq\bin\Debug\net8.0\Linq.dll
+D:\Program\c#\enigma\belajar\Linq\Linq\bin\Debug\net8.0\Linq.pdb
+D:\Program\c#\enigma\belajar\Linq\Linq\obj\Debug\net8.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\c#\enigma\belajar\Linq\Linq\obj\Debug\net8.0\Linq.AssemblyInfoInputs.cache
+D:\Program\c#\enigma\belajar\Linq\Linq\obj\Debug\net8.0\Linq.AssemblyInfo.cs
+D:\Program\c#\enigma\belajar\Linq\Linq\obj\Debug\net8.0\Linq.csproj.CoreCompileInputs.cache
+D:\Program\c#\enigma\belajar\Linq\Linq\obj\Debug\net8.0\Linq.dll
+D:\Program\c#\enigma\belajar\Linq\Linq\obj\Debug\net8.0\refint\Linq.dll
+D:\Program\c#\enigma\belajar\Linq\Linq\obj\Debug\net8.0\Linq.pdb
+D:\Program\c#\enigma\belajar\Linq\Linq\obj\Debug\net8.0\Linq.genruntimeconfig.cache
+D:\Program\c#\enigma\belajar\Linq\Linq\obj\Debug\net8.0\ref\Linq.dll
